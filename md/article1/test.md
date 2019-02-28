@@ -47,7 +47,7 @@ if __name__ == "__main__":
 ## 画像のテスト
 ![クラウディアさん](img/claudia.jpg)
 <img src="img/claudia.jpg">
-<img src="claudia.jpg">
+
 
 
 
